@@ -1,0 +1,10 @@
+# Node modules
+node_modules/
+
+# Fichiers d'environnement
+.env
+.env.local
+
+# Fichiers système
+.DS_Store
+.vscode/
